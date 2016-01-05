@@ -1,2 +1,2 @@
-# maven_stuff
+# Maven Stuff
 This is my maven stuff
